@@ -1,0 +1,1 @@
+My implementation string.h from standart C library
