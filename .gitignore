@@ -1,1 +1,4 @@
 build/
+a.out
+src/m_string.h.gch
+main.c
